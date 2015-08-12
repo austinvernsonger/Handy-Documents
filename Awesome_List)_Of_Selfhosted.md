@@ -1,5 +1,5 @@
-# Awesome List of Selfhosted
-
+# Awesome List of Self-hosted Network Services and Web Applications
+-------------
 Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 
 This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted locally. 
